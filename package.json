@@ -1,0 +1,27 @@
+{
+  "name": "window-pos",
+  "version": "1.0.0",
+  "description": "Gets the position of a Window in Windows",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "mocha",
+    "test:ci": "SET CI=TRUE && mocha"
+  },
+  "keywords": [
+    "Win32",
+    "Windows"
+  ],
+  "author": "Soundofdarkness",
+  "license": "MIT",
+  "gypfile": true,
+  "os": ["win32"],
+  "dependencies": {
+    "lodash.clone": "^4.5.0",
+    "node-addon-api": "^1.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "node-gyp": "^5.0.3"
+  }
+}
