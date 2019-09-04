@@ -1,5 +1,8 @@
 # Window Position (window-pos)
 
+![GitHub](https://img.shields.io/github/license/Soundofdarkness/window-pos?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/Soundofdarkness/window-pos?style=for-the-badge)
+
 A small native library to get the size and position of a window on windows.
 
 ## Installing
