@@ -1,5 +1,5 @@
 {
-  "name": "window-pos",
+  "name": "@soundofdarkness/window-pos",
   "version": "1.0.0",
   "description": "Gets the position of a Window in Windows",
   "main": "index.js",
@@ -12,6 +12,12 @@
     "Win32",
     "Windows"
   ],
+  "homepage": "https://github.com/Soundofdarkness/window-pos",
+  "bugs": "https://github.com/Soundofdarkness/window-pos/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soundofdarkness/window-pos"
+  },
   "author": "Soundofdarkness",
   "license": "MIT",
   "gypfile": true,
